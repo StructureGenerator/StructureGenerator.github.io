@@ -8,8 +8,10 @@ Brendan D. McKay, Mehmet Aziz Yirik and Christoph Steinbeck
 
 # Documentation
 A complete [**user manual**](https://github.com/steinbeck/Surge/blob/main/doc/surge1_0_User_Manual.pdf) is included in the package.
-Releases, source code and an issue tracker can be found at the []`surge` github repository](https://github.com/StructureGenerator/SURGE).
 
+Releases, source code and an issue tracker can be found at the [`surge` github repository](https://github.com/StructureGenerator/SURGE).
+
+# Citing Surge
 If you use `surge`, please cite:
 
 Brendan D. McKay, Mehmet Aziz Yirik and Christoph Steinbeck, SURGE - A Fast Open-Source Chemical Graph Generator, submitted
