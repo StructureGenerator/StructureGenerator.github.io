@@ -1,4 +1,4 @@
-![surge logo](logo2.png)
+<img src="logo2.png" alt="drawing" width="100" align = "right"/>
 
 # Surge: A Fast Open-Source Chemical Graph Generator
 Brendan D. McKay, Mehmet Aziz Yirik and Christoph Steinbeck
