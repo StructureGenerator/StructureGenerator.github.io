@@ -1,4 +1,4 @@
-![surge logo](resources/logo2.png)
+![surge logo](https://github.com/StructureGenerator/StructureGenerator.github.io/blob/main/resources/logo2.png)
 
 # Surge: A Fast Open-Source Chemical Graph Generator
 Brendan D. McKay, Mehmet Aziz Yirik and Christoph Steinbeck
@@ -26,7 +26,7 @@ Surge was developed by
 >[Brendan McKay](http://users.cecs.anu.edu.au/~bdm)
 >School of Computing
 >Australian National University
->Canberra, ACT, Australia
+>Canberra, ACT, Australia 
 
 
 >[Mehmet Aziz Yirik](https://github.com/mehmetazizyirik)
