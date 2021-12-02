@@ -22,14 +22,14 @@ For large sets of structures, the -z option for compressing the output in gzip f
 
 ## Authors
 Surge was developed by
-`[Brendan McKay](http://users.cecs.anu.edu.au/~bdm)
-School of Computing
-Australian National University
-Canberra, ACT, Australia`
+>[Brendan McKay](http://users.cecs.anu.edu.au/~bdm)
+>School of Computing
+>Australian National University
+>Canberra, ACT, Australia
 
-`
-[Mehmet Aziz Yirik](https://github.com/mehmetazizyirik)
-[Christoph Steinbeck](https://github.com/steinbeck)
-Institute for Inorganic and Analytical Chemistry
-Friedrich-Schiller-University
-Jena, Germany`
+
+>[Mehmet Aziz Yirik](https://github.com/mehmetazizyirik)
+>[Christoph Steinbeck](https://github.com/steinbeck)
+>Institute for Inorganic and Analytical Chemistry
+>Friedrich-Schiller-University
+>Jena, Germany
