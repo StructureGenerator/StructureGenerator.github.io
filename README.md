@@ -25,9 +25,9 @@ Surge was developed by
 `[Brendan McKay](http://users.cecs.anu.edu.au/~bdm)
 School of Computing
 Australian National University
-Canberra, ACT, Australia
+Canberra, ACT, Australia`
 
-
+`
 [Mehmet Aziz Yirik](https://github.com/mehmetazizyirik)
 [Christoph Steinbeck](https://github.com/steinbeck)
 Institute for Inorganic and Analytical Chemistry
