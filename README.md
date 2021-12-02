@@ -1,4 +1,4 @@
-![surge logo](https://github.com/StructureGenerator/StructureGenerator.github.io/blob/main/resources/logo2.png)
+![surge logo](https://github.com/StructureGenerator/StructureGenerator.github.io/blob/main/resources/logo2.png?raw=true)
 
 # Surge: A Fast Open-Source Chemical Graph Generator
 Brendan D. McKay, Mehmet Aziz Yirik and Christoph Steinbeck
