@@ -9,7 +9,8 @@ Brendan D. McKay, Mehmet Aziz Yirik and Christoph Steinbeck
 # Documentation
 A complete [**user manual**](https://github.com/steinbeck/Surge/blob/main/doc/surge1_0.pdf) is included in the package.
 
-Releases, source code and an issue tracker can be found at the [`surge` github repository](https://github.com/StructureGenerator/SURGE).
+#How to get 'surge'
+[Releases](https://github.com/StructureGenerator/surge/releases), source code and an issue tracker can be found at the [`surge` github repository](https://github.com/StructureGenerator/surge).
 
 # Citing Surge
 If you use `surge`, please cite:
