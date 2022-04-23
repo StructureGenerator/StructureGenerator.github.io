@@ -15,7 +15,7 @@ A complete [**user manual**](https://github.com/StructureGenerator/surge/blob/ma
 # Citing surge
 If you use `surge`, please cite:
 
-Brendan D. McKay, Mehmet Aziz Yirik and Christoph Steinbeck, SURGE - A Fast Open-Source Chemical Graph Generator, submitted
+McKay, B.D., Yirik, M.A. & Steinbeck, C. Surge: a fast open-source chemical graph generator. J Cheminform 14, 24 (2022). https://doi.org/10.1186/s13321-022-00604-9
 
 ## Usage
 `Surge` is a command line tool. Running `surge -u C10H16O` will generate the 452458 isomers of C<sub>10</sub>H<sub>16</sub>O in 0.1s on some vanilla flavor year-2021 PC. Running `surge -S C10H16O` outputs those structures in SMILES format. You can either use `surge -S C10H16O > myresults.smi` to redirect the output into a result file, or use the `-o`switch to provide a filename. Further formats supported are SD Files (SDF) and a concise Surge-specific format.  
