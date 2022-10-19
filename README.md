@@ -4,7 +4,7 @@
 Brendan D. McKay, Mehmet Aziz Yirik and Christoph Steinbeck
 
 ## About
-`Surge` is a chemical structure generator based on the canonical generation path method. `Surge` uses the Nauty package to compute automorphism groups of graphs and generates all non-isomorphic constitutional isomers of a given molecular formula. `Surge` is available under a liberal open source license and its [pre-print](https://chemrxiv.org/engage/chemrxiv/article-details/61addca06d4e8fe372abeade) is also available.
+`Surge` is a chemical structure generator based on the canonical generation path method. `Surge` uses the Nauty package to compute automorphism groups of graphs and generates all non-isomorphic constitutional isomers of a given molecular formula. `Surge` is available under a liberal open source license.
 
 # Documentation
 A complete [**user manual**](https://github.com/StructureGenerator/surge/blob/main/doc/surge1_0.pdf) is included in the package.
